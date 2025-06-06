@@ -1,0 +1,22 @@
+7
+1
+Minecraft
+25 4.5 8
+2
+Fifa 23
+29.99 3.8 4
+3
+Grand Theft Auto V
+79.99 4.7 15
+4
+Terraria
+14.99 4.2 7
+5
+Cyberpunk 2077
+49.99 2.8 3
+6
+Elden Ring
+59.99 4.8 12
+7
+Test
+15 0 0
